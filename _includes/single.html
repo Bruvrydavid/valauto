@@ -54,7 +54,7 @@
                                             <img src="{{ site.url }}{{ post.urlsmallimg }}" />
                                         </div>
                                         <div class="post-text">
-                                            <a href="{{ post.url }}">{{ post.title }}</a>
+                                            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                                             <div class="post-meta">
                                                 <p>Par {{ post.author }}</p>
                                                 <p>Le {{ post.date | date: "%d %b %Y" }}</p>
