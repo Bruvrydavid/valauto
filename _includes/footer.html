@@ -1,0 +1,41 @@
+<!-- Footer Start -->
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="footer-contact">
+                    <h2>Nous contacter</h2>
+                    <p><i class="fa fa-map-marker-alt"></i>{{ site.data.base.adresse }}, {{ site.data.base.codepostal }}, {{ site.data.base.ville }}</p>
+                    <p><i class="fa fa-phone-alt"></i>{{ site.data.base.telephone }}</p>
+                    <p><i class="fa fa-envelope"></i>{{ site.data.base.facebook }}</p>
+                    <div class="footer-social">
+                        <a class="btn" href="{{ site.data.base.linkfacebook }}" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="footer-link">
+                    <h2>Le Menu</h2>
+                    <a href="{{ site.url }}#home">Accueil</a>
+                    <a href="{{ site.url }}#about">Val Auto</a>
+                    <a href="{{ site.url }}#service">Les services</a>
+                    <a href="{{ site.url }}#price">Les tarifs</a>
+                    <a href="{{ site.url }}#blog">Le Blog</a>
+                    <a href="{{ site.url }}#contact">Me contacter</a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="footer-img">
+                    <a href="{{ site.url }}#home">
+                        <img src="{{ site.url }}/assets/img/logo.jpg" class="img-fluid" alt="Logo Val Auto">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container copyright">
+        <p>&copy; <a href="#">Val Auto</a>,  @2024. tous droits réservés.<a href="{{site.url}}/cgu.html">Voir les CGU</a>
+        </p>
+    </div>
+</div>
+<!-- Footer End -->
