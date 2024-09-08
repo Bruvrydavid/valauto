@@ -31,5 +31,4 @@ Gardez un œil sur les gicleurs : Assurez-vous qu'ils fonctionnent correctement 
 
 ## Conclusion :
 
-Prendre soin de vos essuie-glaces, c'est prendre soin de votre sécurité et de celle de vos passagers. ✨ N'hésitez pas à partager vos astuces d'entretien en commentaires !
-
+Prendre soin de vos essuie-glaces, c'est prendre soin de votre sécurité et de celle de vos passagers.

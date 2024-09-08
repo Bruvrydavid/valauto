@@ -6,8 +6,8 @@
                         <h2>{{ page.title }}</h2>
                     </div>
                     <div class="col-12">
-                        <a href="{{ site.url }}">Accueil</a>
-                        <a href="{{ site.url }}/tags.html">Articles</a>
+                        <a aria-label="Accueil" href="{{ site.url }}">Accueil</a>
+                        <a aria-label="Les articles" href="{{ site.url }}/tags.html">Articles</a>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                                             <img src="{{ site.url }}{{ post.urlsmallimg }}" />
                                         </div>
                                         <div class="post-text">
-                                            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                            <a aria-label="post" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                                             <div class="post-meta">
                                                 <p>Par {{ post.author }}</p>
                                                 <p>Le {{ post.date | date: "%d %b %Y" }}</p>
