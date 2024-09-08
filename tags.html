@@ -28,7 +28,7 @@ urllargeimg: "/assets/img/ValentinGarageValAuto2.jpg"
     <div class="post-list">
         {%- for post in site.tags[tag] -%}
             <div class="tag-entry">
-                {{ post.date |date: "%d %b %Y" }} - <a href="{{ post.url | relative_url }}"> {{- post.title | strip_html -}}</a>
+                {{ post.date |date: "%d %b %Y" }} - <a href="{{ site.url }}{{ post.url | relative_url }}"> {{- post.title | strip_html -}}</a>
                 <br>{{ post.excerpt }} 
             </div>
         {%- endfor -%}
