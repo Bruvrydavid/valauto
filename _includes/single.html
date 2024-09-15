@@ -22,7 +22,7 @@
                     <div class="col-lg-8">
                         <div class="single-content">
                             <h1></h1>
-                            <img src="{{ site.url }}{{ page.urllargeimg }}" />
+                            <img src="{{ site.url }}{{ page.urllargeimg }}" loading="lazy" />
                             <p>
                                 {{ %content% }}
                             </p>
@@ -51,7 +51,7 @@
                                     {% for post in site.posts %}
                                     <div class="post-item">
                                         <div class="post-img">
-                                            <img src="{{ site.url }}{{ post.urlsmallimg }}" />
+                                            <img src="{{ site.url }}{{ post.urlsmallimg }}" loading="lazy" />
                                         </div>
                                         <div class="post-text">
                                             <a aria-label="post" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
