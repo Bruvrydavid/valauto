@@ -7,16 +7,15 @@ author: Valentin
 date:   2024-09-08
 tags: Securite 
 ---
-
 Prêts à affronter les intempéries ? ☔️ Des essuie-glaces en bon état sont essentiels pour une visibilité parfaite sur la route.
 
-##Pourquoi est-ce important ?
+## Pourquoi est-ce important ?
 
 1. Sécurité routière : Une vitre propre, c'est un réflexe de sécurité ! Des essuie-glaces efficaces éliminent rapidement les gouttes de pluie, la neige et les saletés, améliorant ainsi votre visibilité et votre réactivité.
 2. Durée de vie : Un entretien régulier prolonge la durée de vie de vos balais d'essuie-glaces et vous évite des remplacements fréquents.
 3. Qualité d'essuyage : Des essuie-glaces propres assurent un essuyage uniforme et sans trace, pour une conduite plus agréable.
 
-##Comment bien les entretenir ?
+## Comment bien les entretenir ?
 
 1. Nettoyage régulier : Au moins une fois par mois, nettoyez les balais avec un chiffon doux imbibé d'eau savonneuse ou de vinaigre blanc.
 2. Évitez les produits abrasifs : Ils risquent d'endommager le caoutchouc.
