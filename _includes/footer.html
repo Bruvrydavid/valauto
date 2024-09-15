@@ -9,7 +9,7 @@
                     <p><i class="fa fa-phone-alt"></i>{{ site.data.base.telephone }}</p>
                     <p><i class="fa fa-envelope"></i>{{ site.data.base.facebook }}</p>
                     <div class="footer-social">
-                        <a class="btn" href="{{ site.data.base.linkfacebook }}" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn" href="{{ site.data.base.linkfacebook }}" target="_blank" aria-label="valautofacebook"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </div>
@@ -17,7 +17,7 @@
                 <div class="footer-link">
                     <h2>Le Menu</h2>
                     <a aria-label="Accueil" href="{{ site.url }}#home">Accueil</a>
-                    <a aria-label="Val Auto" href="{{ site.url }}#about">Val Auto</a>
+                    <a aria-label="Val Auto" href="{{ site.url }}#about">{{ site.data.base.title}}</a>
                     <a aria-label="Les services" href="{{ site.url }}#service">Les services</a>
                     <a aria-label="Les tarifs" href="{{ site.url }}#price">Les tarifs</a>
                     <a aria-label="Le Blog" href="{{ site.url }}#blog">Le Blog</a>
@@ -34,7 +34,7 @@
         </div>
     </div>
     <div class="container copyright">
-        <p>&copy; <a aria-label="Accueil" href="#">Val Auto</a>,  @2024. tous droits réservés.<a aria-label="cgu" href="{{site.url}}/cgu.html">Voir les CGU</a>
+        <p>&copy; <a aria-label="Accueil" href="#">{{ site.data.base.title}}</a>,  @2024. tous droits réservés.<a aria-label="cgu" href="{{site.url}}/cgu.html">Voir les CGU</a>
         </p>
     </div>
 </div>
