@@ -4,7 +4,7 @@ title:  "Des essuie-glaces impeccables : la clé d'une conduite sûre !"
 urllargeimg: /assets/img/essuieglaces.jpg
 urlsmallimg: /assets/img/smallessuieglaces.jpg
 author: Valentin
-date:   2024-09-08
+date:   2024-09-17
 tags: Securite 
 ---
 Prêts à affronter les intempéries ? ☔️ Des essuie-glaces en bon état sont essentiels pour une visibilité parfaite sur la route.

@@ -16,6 +16,7 @@
 
 
         <!-- Single Post Start-->
+        
         <div class="single">
             <div class="container">
                 <div class="row">
@@ -48,19 +49,23 @@
                             <div class="sidebar-widget">
                                 <h2 class="widget-title">Articles récents</h2>
                                 <div class="recent-post">
+                                    {% assign today_date=now | date: '%s'  | times: 1 %}
                                     {% for post in site.posts %}
-                                    <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="{{ site.url }}{{ post.urlsmallimg }}" loading="lazy" />
-                                        </div>
-                                        <div class="post-text">
-                                            <a aria-label="post" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                                            <div class="post-meta">
-                                                <p>Par {{ post.author }}</p>
-                                                <p>Le {{ post.date | date: "%d %b %Y" }}</p>
+                                        {% assign post_date = poste.date | date: '%s' | times: 1 %}
+                                        {% if post_date <= today_date %}
+                                        <div class="post-item">
+                                            <div class="post-img">
+                                                <img src="{{ site.url }}{{ post.urlsmallimg }}" loading="lazy" />
+                                            </div>
+                                            <div class="post-text">
+                                                <a aria-label="post" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                                <div class="post-meta">
+                                                    <p>Par {{ post.author }}</p>
+                                                    <p>Le {{ post.date | date: "%d %b %Y" }}</p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
+                                        {% endif %}
                                     {% endfor %}
                                 </div>
                             </div>

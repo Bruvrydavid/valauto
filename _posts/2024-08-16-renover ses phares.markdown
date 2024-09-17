@@ -6,7 +6,7 @@ date:   2024-08-16
 urllargeimg: /assets/img/blog-1.jpg
 urlsmallimg: /assets/img/post-4.jpg
 author: Valentin
-tags: Technique
+tags: Securite
 ---
 Pourquoi rénover ses phares ternes et opaques ?
 
