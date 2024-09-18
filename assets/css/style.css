@@ -1261,6 +1261,7 @@ a:focus {
 
 .blog .blog-img img {
     width: 100%;
+    height: 250px;
     border-radius: 5px;
 }
 
@@ -1621,6 +1622,7 @@ a:focus {
 
 .single .post-item .post-img img {
     width: 100%;
+    height: 50px;
     border-radius: 5px;
 }
 
