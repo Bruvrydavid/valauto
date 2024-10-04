@@ -4,7 +4,7 @@ title:  "Comment bien choisir son lave-glace ?"
 urllargeimg: /assets/img/post-7.jpg
 urlsmallimg: /assets/img/post-7.jpg
 author: Valentin
-date: 2024-10-15
+date: 2024-10-04
 tags: Securite 
 ---
 Le choix du lave-glace peut sembler anodin, mais il est essentiel pour assurer une visibilité optimale et préserver votre pare-brise. Voici quelques conseils pour vous aider à faire le bon choix :
