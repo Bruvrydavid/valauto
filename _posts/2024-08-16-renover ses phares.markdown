@@ -3,8 +3,8 @@ layout: singlepost
 title:  "Pourquoi rénover ses phares?"
 urlimg: /assets/img/post-3.jpg
 date:   2024-08-16
-urllargeimg: /assets/img/blog-1.jpg
-urlsmallimg: /assets/img/post-4.jpg
+urllargeimg: /assets/img/post-C.jpg
+urlsmallimg: /assets/img/blog-C.jpg
 author: Valentin
 tags: Securite
 ---
