@@ -4,7 +4,7 @@ title:  "Pourquoi éviter les rouleaux et portiques à brosse pour laver sa voit
 urllargeimg: /assets/img/post-B.jpg
 urlsmallimg: /assets/img/blog-B.jpg
 author: Valentin
-date:   2024-11-04
+date:   2024-11-03
 tags: Conseil
 ---
 
