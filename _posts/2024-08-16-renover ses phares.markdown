@@ -30,4 +30,6 @@ Pourquoi rénover ses phares ternes et opaques ?
   3.  Professionnel : Pour un résultat optimal et durable, il est conseillé de faire appel à un professionnel qui dispose d'outils et de produits spécifiques.
 
 
-En résumé, la rénovation des phares est une opération simple et peu coûteuse qui permet d'améliorer la sécurité routière, l'esthétique de votre véhicule et sa valeur de revente. N'hésitez pas à consulter un professionnel pour vous conseiller sur la meilleure solution adaptée à votre situation.
+# En résumé
+
+La rénovation des phares est une opération simple et peu coûteuse qui permet d'améliorer la sécurité routière, l'esthétique de votre véhicule et sa valeur de revente. N'hésitez pas à nous consulter chez [Val-Auto]({{ site.url }}), nous vous conseillerons sur la meilleure solution pour votre situation.

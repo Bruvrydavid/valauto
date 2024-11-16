@@ -35,4 +35,7 @@ t
 3. On Séche votre voiture soigneusement: On Utilise des microfibres douce pour éviter les traces d'eau.
 4. Pour protégez votre peinture: On peut appliquez de la cire ou un traitement céramique pour renforcer la protection.
 
-En venant chez Val-auto votre voiture conservera son éclat pendant de nombreuses années.
+En venant chez [Val-Auto]({{ site.url }}) votre voiture conservera son éclat pendant de nombreuses années.
+
+# Mots-clés: 
+lavage, brosses, rouleaux, voiture, entretien.
