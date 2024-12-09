@@ -4,7 +4,7 @@ title:  "Pourquoi appliquer un traitement céramique sur votre véhicule ?"
 urllargeimg: /assets/img/post-F.jpg
 urlsmallimg: /assets/img/blog-F.jpg
 author: Valentin
-date:   2024-12-02
+date:   2024-12-09
 tags: Conseil
 ---
 
