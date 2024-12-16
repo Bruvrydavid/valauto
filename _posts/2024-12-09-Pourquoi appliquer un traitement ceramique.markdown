@@ -34,5 +34,5 @@ Le traitement céramique est devenu un incontournable dans l'entretien automobil
 
 Le traitement céramique est un investissement judicieux pour tous les propriétaires de véhicules qui souhaitent protéger leur carrosserie, faciliter son entretien et améliorer son aspect esthétique.
 
-# Mots-clés:
+# Mots-clés
 céramique, brillance, protection, hydrophobe, voiture, carrosserie.
