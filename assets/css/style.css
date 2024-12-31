@@ -125,8 +125,8 @@ a:focus {
     text-align: center;
     line-height: 1;
     font-size: 22px;
-    right: 15px;
-    bottom: 15px;
+    right: 65px;
+    bottom: 12px;
     transition: .5s;
     background: #1C8DE8;
     border-radius: 44px;
@@ -2110,4 +2110,142 @@ a:focus {
 
 .footer .copyright p a:hover {
     color: #ffffff;
+}
+
+/* ************************************** tarteaucitron ******************************** */
+.tac_visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+    border: 0
+}
+#tarteaucitronRoot a,#tarteaucitronRoot abbr,#tarteaucitronRoot acronym,#tarteaucitronRoot address,#tarteaucitronRoot applet,#tarteaucitronRoot article,#tarteaucitronRoot aside,#tarteaucitronRoot audio,#tarteaucitronRoot b,#tarteaucitronRoot big,#tarteaucitronRoot blockquote,#tarteaucitronRoot canvas,#tarteaucitronRoot caption,#tarteaucitronRoot center,#tarteaucitronRoot cite,#tarteaucitronRoot code,#tarteaucitronRoot dd,#tarteaucitronRoot del,#tarteaucitronRoot details,#tarteaucitronRoot dfn,#tarteaucitronRoot div,#tarteaucitronRoot dl,#tarteaucitronRoot dt,#tarteaucitronRoot em,#tarteaucitronRoot embed,#tarteaucitronRoot fieldset,#tarteaucitronRoot figcaption,#tarteaucitronRoot figure,#tarteaucitronRoot footer,#tarteaucitronRoot form,#tarteaucitronRoot h1,#tarteaucitronRoot h2,#tarteaucitronRoot h3,#tarteaucitronRoot h4,#tarteaucitronRoot h5,#tarteaucitronRoot h6,#tarteaucitronRoot header,#tarteaucitronRoot hgroup,#tarteaucitronRoot i,#tarteaucitronRoot iframe,#tarteaucitronRoot img,#tarteaucitronRoot ins,#tarteaucitronRoot kbd,#tarteaucitronRoot label,#tarteaucitronRoot legend,#tarteaucitronRoot li,#tarteaucitronRoot mark,#tarteaucitronRoot menu,#tarteaucitronRoot nav,#tarteaucitronRoot object,#tarteaucitronRoot ol,#tarteaucitronRoot output,#tarteaucitronRoot p,#tarteaucitronRoot pre,#tarteaucitronRoot q,#tarteaucitronRoot ruby,#tarteaucitronRoot s,#tarteaucitronRoot samp,#tarteaucitronRoot section,#tarteaucitronRoot small,#tarteaucitronRoot span,#tarteaucitronRoot strike,#tarteaucitronRoot strong,#tarteaucitronRoot sub,#tarteaucitronRoot summary,#tarteaucitronRoot sup,#tarteaucitronRoot table,#tarteaucitronRoot tbody,#tarteaucitronRoot td,#tarteaucitronRoot tfoot,#tarteaucitronRoot th,#tarteaucitronRoot thead,#tarteaucitronRoot time,#tarteaucitronRoot tr,#tarteaucitronRoot tt,#tarteaucitronRoot u,#tarteaucitronRoot ul,#tarteaucitronRoot var,#tarteaucitronRoot video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    text-align: initial;
+    text-shadow: initial
+}
+
+#tarteaucitronRoot * {
+    transition: border 300ms,background 300ms,opacity 200ms,box-shadow 400ms
+}
+
+#tarteaucitronRoot div#tarteaucitron {
+    left: 0;
+    right: 0;
+    margin: auto
+}
+
+#tarteaucitronRoot button#tarteaucitronBack {
+    background: #eee
+}
+#tarteaucitronRoot button {
+    background: 0 0;
+    border: 0
+}
+#tarteaucitronRoot {
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%
+}
+
+#tarteaucitronRoot * {
+    box-sizing: initial;
+    color: #333;
+    font-size: 14px;
+    line-height: normal;
+    vertical-align: initial
+}
+#tarteaucitronBack {
+    background: #fff;
+    display: none;
+    height: 100%;
+    left: 0;
+    opacity: .7;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2147483646
+}
+
+#tarteaucitron {
+    display: none;
+    max-height: 80%;
+    left: 50%;
+    margin: 0 auto 0-430px;
+    padding: 0;
+    position: fixed;
+    top: 6%;
+    width: 860px;
+    z-index: 2147483647
+}
+.tarteaucitronAlertBigBottom {
+    bottom: 0
+}
+
+#tarteaucitronRoot #tarteaucitronAlertBig {
+    background: #333;
+    color: #fff;
+    display: none;
+    font-size: 15px!important;
+    left: 0;
+    position: fixed;
+    box-sizing: content-box;
+    z-index: 2147483645;
+    text-align: center;
+    padding: 10px 0;
+    margin: auto;
+    width: 100%
+}
+#tarteaucitronPercentage {
+    background: #0a0!important;
+    box-shadow: 0 0 2px #fff,0 1px 2px #555;
+    height: 5px;
+    left: 0;
+    position: fixed;
+    width: 0;
+    z-index: 2147483644
+}
+
+.tarteaucitronIconBottomRight {
+    bottom: 0;
+    right: 0
+}
+.tarteaucitronIconBottomLeft #tarteaucitronManager,.tarteaucitronIconBottomRight #tarteaucitronManager {
+    border-radius: 7px 7px 2px 2px
+}
+
+#tarteaucitronAlertSmall,#tarteaucitronIcon {
+    display: none;
+    position: fixed;
+    width: auto;
+    z-index: 2147483646
+}
+
+#tarteaucitronIcon {
+    background: 0 0
+}
+
+#tarteaucitronIcon #tarteaucitronManager {
+    color: transparent;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 11px!important;
+    padding: 8px 10px;
+    border: 0
+}
+
+#tarteaucitronIcon #tarteaucitronManager img {
+    width: 50px;
+    height: 50px
 }
