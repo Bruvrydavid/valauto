@@ -1,8 +1,8 @@
 ---
 layout: singlepost
 title:  "Des essuie-glaces impeccables : la clé d'une conduite sûre !"
-urllargeimg: /assets/img/essuieglaces.jpg
-urlsmallimg: /assets/img/smallessuieglaces.jpg
+urllargeimg: /assets/img/blog/essuieglaces.jpg
+urlsmallimg: /assets/img/blog/smallessuieglaces.jpg
 author: Valentin
 date:   2024-09-17
 tags: Securite 

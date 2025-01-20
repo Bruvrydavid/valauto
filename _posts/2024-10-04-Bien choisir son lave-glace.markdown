@@ -1,8 +1,8 @@
 ---
 layout: singlepost
 title:  "Comment bien choisir son lave-glace ?"
-urllargeimg: /assets/img/post-7.jpg
-urlsmallimg: /assets/img/post-7.jpg
+urllargeimg: /assets/img/blog/post-7.jpg
+urlsmallimg: /assets/img/blog/post-7.jpg
 author: Valentin
 date: 2024-10-04
 tags: Securite 

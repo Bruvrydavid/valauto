@@ -1,8 +1,8 @@
 ---
 layout: singlepost
 title:  "Pourquoi faire laver son véhicule? Les types de lavage."
-urllargeimg: /assets/img/blog-2.jpg
-urlsmallimg: /assets/img/post-2.jpg
+urllargeimg: /assets/img/blog/blog-2.jpg
+urlsmallimg: /assets/img/blog/post-2.jpg
 author: Valentin
 date:   2024-07-01
 tags: Conseil

@@ -1,8 +1,8 @@
 ---
 layout: singlepost
 title:  "Bien Préparer sa voiture pour l'hiver !"
-urllargeimg: /assets/img/post-A.jpg
-urlsmallimg: /assets/img/post-A.jpg
+urllargeimg: /assets/img/blog/post-A.jpg
+urlsmallimg: /assets/img/blog/post-A.jpg
 author: Valentin
 date: 2024-10-18
 tags: Conseil 

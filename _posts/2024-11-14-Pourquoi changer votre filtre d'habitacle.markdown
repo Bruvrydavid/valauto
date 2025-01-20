@@ -1,8 +1,8 @@
 ---
 layout: singlepost
 title:  "Pourquoi changer le filtre d'habitacle de votre voiture ?"
-urllargeimg: /assets/img/post-D.jpg
-urlsmallimg: /assets/img/blog-D.jpg
+urllargeimg: /assets/img/blog/post-D.jpg
+urlsmallimg: /assets/img/blog/blog-D.jpg
 author: Valentin
 date:   2024-11-14
 tags: Conseil
