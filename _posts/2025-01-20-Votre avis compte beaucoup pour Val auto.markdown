@@ -6,7 +6,7 @@ urlsmallimg: /assets/img/blog/20250105-small-avis.webp
 author: Valentin
 date:   2025-01-20
 readtime : 30 secondes
-tags: Divers
+tags: Professionnel
 ---
 Chers clients, clientes,
 Votre satisfaction est ma priorité absolue. C'est grâce à vous que je peux continuer à améliorer mes services.

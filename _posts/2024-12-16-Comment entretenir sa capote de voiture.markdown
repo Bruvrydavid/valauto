@@ -4,7 +4,7 @@ title:  "Comment entretenir sa capote de voiture."
 urllargeimg: /assets/img/blog/post-G.jpg
 urlsmallimg: /assets/img/blog/blog-G.jpg
 author: Valentin
-date:   2024-12-16
+date:   202-02-10
 tags: Conseil
 ---
 
