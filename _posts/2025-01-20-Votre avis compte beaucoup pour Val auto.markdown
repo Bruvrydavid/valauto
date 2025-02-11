@@ -19,6 +19,6 @@ Merci d'avance pour votre temps et votre soutien !
 
 Cordialement,
 
-Patricia de Couture d'Opale
+{{ site.data.base.prenom }} de {{ site.data.base.title }}
 
 
