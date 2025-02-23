@@ -5,6 +5,7 @@ urllargeimg: /assets/img/blog/post-7.jpg
 urlsmallimg: /assets/img/blog/post-7.jpg
 author: Valentin
 date: 2024-10-04
+readtime : 2 minutes
 tags: Securite 
 ---
 Le choix du lave-glace peut sembler anodin, mais il est essentiel pour assurer une visibilité optimale et préserver votre pare-brise. Voici quelques conseils pour vous aider à faire le bon choix :

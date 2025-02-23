@@ -5,6 +5,7 @@ urllargeimg: /assets/img/blog/essuieglaces.jpg
 urlsmallimg: /assets/img/blog/smallessuieglaces.jpg
 author: Valentin
 date:   2024-09-17
+readtime : 2 minutes
 tags: Securite 
 ---
 Prêts à affronter les intempéries ? ☔️ Des essuie-glaces en bon état sont essentiels pour une visibilité parfaite sur la route.

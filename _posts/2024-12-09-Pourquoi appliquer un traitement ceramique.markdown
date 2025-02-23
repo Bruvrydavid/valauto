@@ -5,6 +5,7 @@ urllargeimg: /assets/img/blog/post-F.jpg
 urlsmallimg: /assets/img/blog/blog-F.jpg
 author: Valentin
 date:   2024-12-09
+readtime : 1 minute
 tags: Conseil
 ---
 

@@ -2,6 +2,7 @@
 layout: singlepost
 title:  "Le nettoyage interieur extérieur, c'est quoi?"
 date:   2024-08-17
+readtime : 2 minutes
 urllargeimg: /assets/img/blog/blog-3.jpg
 urlsmallimg: /assets/img/blog/post-1.jpg
 author: David
