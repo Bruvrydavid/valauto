@@ -4,7 +4,7 @@ title:  "Le detailing : l'art de sublimer votre véhicule"
 urllargeimg: /assets/img/blog/20250309_large_detailling.jpg
 urlsmallimg: /assets/img/blog/20250309_small_detailling.jpg
 author: Valentin
-date:   2025-03-10
+date:   2025-03-04
 readtime : 3 minutes
 tags: Professionnel  
 ---
@@ -32,7 +32,6 @@ Le polissage permet de corriger les défauts de la peinture, tels que les micro-
 
 ### 5. La protection : 
 Une fois la peinture corrigée, une protection est appliquée pour la préserver des agressions extérieures (UV, intempéries, etc.). Il peut s'agir d'une cire, d'un scellant ou d'un traitement céramique.
-
 Le detailer va aussi s'occuper des plastiques extérieur, et des caoutchoucs afin de leur redonner un aspect neuf.
 
 ### 6. Detailing des jantes et des pneus :
@@ -76,7 +75,7 @@ Une réparation mécanique: Le detailing se concentre sur l'aspect esthétique e
 Bien que certaines étapes du detailing auto puissent être réalisées par des particuliers, il est souvent préférable de faire appel à un professionnel pour obtenir des résultats optimaux. Les detailers professionnels possèdent l'expertise, les outils et les produits nécessaires pour réaliser un travail de qualité, en toute sécurité pour votre véhicule.
 
 # Quel est le coût d’un detailing ?
-Le coût du detailing est fonction des options choisies et du degré de finitions que vous souhaitez obtenir. Des prestations qui doivent bien évidemment faire l’objet d’un devis préalable.
+Le coût du detailing est fonction des options choisies et du degré de finitions que vous souhaitez obtenir. Des prestations qui doivent bien évidemment faire l'objet d'un devis préalable.
 
 # Conclusion
 Le detailing auto est un investissement qui permet de préserver la valeur et l'apparence de votre véhicule sur le long terme. C'est une véritable passion qui demande de la minutie, de la patience et un souci du détail.
