@@ -1,10 +1,10 @@
 ---
 layout: singlepost
 title:  "Bien préparer sa voiture pour l'été"
-urllargeimg: /assets/img/blog/20250309_large_detailling.jpg
-urlsmallimg: /assets/img/blog/20250309_small_detailling.jpg
+urllargeimg: /assets/img/blog/post-K.jpg
+urlsmallimg: /assets/img/blog/post-K.jpg
 author: Valentin
-date:   2025-05-10
+date:   2025-05-04
 readtime : 2 minutes
 tags: Conseil  
 ---
