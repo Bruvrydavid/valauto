@@ -4,7 +4,7 @@ title:  "Laver sa voiture chez soi dans le Pas-de-Calais : Attention, l'addition
 urllargeimg: /assets/img/blog/post-M.jpg
 urlsmallimg: /assets/img/blog/post-M.jpg
 author: Valentin
-date:   2025-06-05
+date:   2025-07-05
 readtime : 2 minutes
 tags: Conseil  
 ---
