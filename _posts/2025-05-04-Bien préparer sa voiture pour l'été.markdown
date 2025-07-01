@@ -12,7 +12,6 @@ tags: Conseil
 L'été arrive à grands pas, et avec lui, les longs trajets en voiture, les embouteillages sous le soleil et les températures élevées. Pour éviter les mauvaises surprises et profiter pleinement de vos vacances, il est essentiel de préparer votre véhicule. Voici un guide complet pour vous aider à préparer votre voiture pour l'été :
 
 # 1. Vérification des niveaux et des fluides
-
 ## Liquide de refroidissement :
 C'est le point crucial. Assurez-vous que le niveau est correct et que le liquide est en bon état. Il protège votre moteur de la surchauffe.
 ## Huile moteur :
