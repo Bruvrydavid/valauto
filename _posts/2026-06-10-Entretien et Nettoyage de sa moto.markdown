@@ -4,7 +4,7 @@ title:  "Nettoyage et entretien de sa moto"
 urllargeimg: /assets/img/blog/post-J.jpg
 urlsmallimg: /assets/img/blog/post-J.jpg
 author: Valentin
-date:   2026-06-10
+date:   2026-06-05
 readtime : 3 minutes
 tags: Conseil  
 ---
