@@ -4,7 +4,7 @@ title:  "Ne rendez pas votre véhicule sale : Optez pour un nettoyage profession
 urllargeimg: /assets/img/blog/post-N.jpg
 urlsmallimg: /assets/img/blog/post-N.jpg
 author: Valentin
-date:   2025-08-05
+date:   2025-08-09
 readtime : 2 minutes
 tags: Conseil  
 ---
