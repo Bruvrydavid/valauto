@@ -4,8 +4,8 @@ title:  "Protégez l'éclat de votre carrosserie : Astuces pour atténuer les gr
 urllargeimg: /assets/img/blog/post-O.jpg
 urlsmallimg: /assets/img/blog/post-O.jpg
 author: Valentin
-date:   2025-09-05
-readtime : 2 minutes
+date:   2025-09-04
+readtime : 4 minutes
 tags: Professionnel 
 ---
 Chers passionnés d'automobile, chez Valauto, votre centre de nettoyage auto à Outreau, nous savons à quel point l'apparence de votre véhicule est importante. Une carrosserie impeccable est le reflet de votre soin et de votre fierté. Malheureusement, les griffes et rayures sont le lot commun de nos voitures, qu'elles proviennent d'un coup de clé malencontreux, d'un frottement en stationnement, ou simplement des aléas de la route.
